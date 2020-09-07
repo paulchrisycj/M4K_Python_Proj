@@ -1,0 +1,3 @@
+Coca Cola, 5
+Ice Lemon Tea, 7
+Pepsi, 2
